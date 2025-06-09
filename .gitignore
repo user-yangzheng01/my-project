@@ -3,3 +3,7 @@ __pycache__/
 *.log
 .venv/
 .DS_Store
+AppData/
+Documents/
+NTUSER.DAT
+*.regtrans-ms
